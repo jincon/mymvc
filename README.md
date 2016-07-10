@@ -3,3 +3,5 @@
 its a new and simple mvc framework for new phper. 
 
 author:jincon
+
+website:www.jincon.com

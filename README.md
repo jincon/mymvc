@@ -1,7 +1,7 @@
 # mymvc
 
-its a new and simple mvc framework for new phper. 
+it's a new and simple mvc framework for new phper.
 
 author:jincon
 
-website:www.jincon.com
+website:http://www.jincon.com
